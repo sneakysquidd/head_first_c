@@ -1,0 +1,3 @@
+C:/Users/gsct2/CLionProjects/head_first_c/cmake-build-debug/CMakeFiles/head_first_c.dir
+C:/Users/gsct2/CLionProjects/head_first_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gsct2/CLionProjects/head_first_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
